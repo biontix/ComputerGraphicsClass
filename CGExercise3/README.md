@@ -2,5 +2,5 @@
 be able to provide the parameters of primitives using the text box and click the mouse points by
 making modifications to the appearance of the primitive.
 
-![Alt Text]https://github.com/biontix/ComputerGraphicsClass/blob/main/CGExercise3/final.gif
+![Alt Text](https://github.com/biontix/ComputerGraphicsClass/blob/main/CGExercise3/final.gif)
 
